@@ -2,7 +2,7 @@
 
 **A computational framework for measuring the divergence between brand-generated and consumer-generated language.**
 
-MSc Data Science Dissertation · University of Birmingham
+MSc Data Science Dissertation 
 
 ---
 
@@ -137,7 +137,4 @@ scores, contribution breakdowns, etc.) **are** included in `data/processed/`.
 Python · pandas · PyTorch · Transformers (RoBERTa, DistilRoBERTa, BART-MNLI) ·
 Sentence-BERT · BERTopic · scikit-learn · SciPy · Streamlit · Plotly
 
-## Author
 
-MSc Data Science, University of Birmingham
-Supervisor: [Supervisor Name]
