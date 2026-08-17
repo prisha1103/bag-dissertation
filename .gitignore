@@ -1,0 +1,22 @@
+# Raw/large data -- not committed (see README: Data Availability)
+data_raw/
+*.npy
+bag_embeddings.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Large notebook checkpoints
+.ipynb_checkpoints/

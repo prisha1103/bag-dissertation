@@ -1,0 +1,7 @@
+,sentiment_gap,emotion_gap,semantic_gap,topic_gap,category,BAG_score_equal_weight
+Chanel,0.016,0.216,0.372,0.832,luxury,0.153
+Dior,0.303,0.245,0.397,0.916,luxury,0.664
+Gucci,0.028,0.424,0.354,0.874,luxury,0.433
+Supreme,0.059,0.406,0.402,0.975,streetwear,0.766
+Off-White,0.166,0.261,0.323,0.966,streetwear,0.42
+Palace,0.132,0.303,0.337,0.974,streetwear,0.499
